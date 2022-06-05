@@ -1,3 +1,4 @@
+<img src="https://myportfoliosagor.com/img/sagor.png" alt="sagor" width="100%">
 <h1 align="center">Hi 👋, I'm Sagor</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
