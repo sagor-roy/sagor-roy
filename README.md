@@ -2,13 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sagor</h1>
 
 
-
-- 🌱 I’m currently learning **Javascript**
-
-- 👨‍💻 All of my projects are available at [https://myportfoliosagor.000webhostapp.com](https://myportfoliosagor.000webhostapp.com)
-
-- 💬 Ask me about **Laravel Framework**
-
 - 📫 How to reach me **sagorroy204@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
